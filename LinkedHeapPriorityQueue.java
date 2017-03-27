@@ -1,7 +1,4 @@
 /*```````````````````````````````````````````````````````````````````````````````````````````````````````
- * Assignment: 3 
- * Question:  1.a
- * Due Date: March 14th, 2017
  * Name: Jordan Reardon-Smith
  * Student Number: 115 7135
  * Course ID: 2947-50
